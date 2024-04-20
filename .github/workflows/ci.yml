@@ -38,7 +38,7 @@
     "HOMEBREW_NO_AUTO_UPDATE" : "1",
     "HOMEBREW_NO_INSTALL_UPGRADE" : "1",
     "HOMEBREW_NO_INSTALL_CLEANUP" : "1",
-    "EXAMPLE_PROJECT_URL" : "https://github.com/krkrsdl2/krkrsdl2-kag3-demo/releases/download/latest/data.xp3"
+    "EXAMPLE_PROJECT_URL" : "https://github.com/Zucker-jex/krkrsdl2-kag3-demo/releases/download/test/data.xp3"
   },
   "jobs" : {
     "build-web" : {
